@@ -1,0 +1,9 @@
+---
+name: JD's uBlacklist List
+---
+# Docs: https://iorate.github.io/ublacklist/docs/advanced-features#subscription
+/([\w\.]+\.|^)*(amazon|amzn)\.[\w\.]+/
+/([\w\.]+\.|^)*ebay\.[\w\.]+/
+/([\w\.]+\.|^)*etsy\.[\w\.]+/
+/([\w\.]+\.|^)*bestbuy\.[\w\.]+/
+/([\w\.]+\.|^)*temu\.[\w\.]+/
